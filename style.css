@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-    background-color: #ffeecf;
-    --cor-destaque: #0d0dd1bb;
+    background-color: #000000;
+    --cor-destaque: #ffffff;
     --cor-gradiente-creme: linear-gradient(113deg, #f7efaa 0%, #ff2121 44.96%, #fbed96 100%);
 
 }
