@@ -3,7 +3,7 @@
 :root {
     background-color: #ffffff;
     --cor-destaque:  #858080;
-    --cor-gradiente-creme: linear-gradient(113deg, #000000 0%, #ffffff 44.96%, #ffffff 100%);
+    --cor-gradiente-creme: linear-gradient(113deg, #000000 0%, #000000 44.96%, #ffffff 100%);
 
 }
 
